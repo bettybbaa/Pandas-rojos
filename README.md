@@ -15,5 +15,5 @@ HTML 5 TRABAJA DE LA MANO CON CSS3 para crear páginas web que usamos todos los 
 ## Que construí
 En este proyecto me enfoque en construuir una página deicada en los Pandas Rojos
 
-* Header: Sección que involucra mi fotos de Pandas Rojos
-* 
+* Header: Sección que involucra fotos de Pandas Rojos, cuestionarios.
+ 
