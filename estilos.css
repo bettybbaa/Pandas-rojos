@@ -1,0 +1,29 @@
+/*Asi se escribe un comentario*/
+body{
+    background-color: #fcf7d1;
+    color:#000000;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+h1{
+    color: #8c0005
+}
+h3{
+    color:#444444
+}
+li{
+    color: #b52c00;
+}
+
+.img1 {
+    width:400px; 
+    height: 250;
+    border-style: hidden;
+}
+
+.img2{
+    width: 500px;
+    height: 350px;
+    border-style: hidden;
+}
