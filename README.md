@@ -1,4 +1,4 @@
-# Página de animales con HTML Y CSS
+# Página de animales con HTML5 Y CSS3
 
 ## **ÍNDICE**
 
@@ -16,6 +16,9 @@ HTML 5 TRABAJA DE LA MANO CON CSS3 para crear páginas web que usamos todos los 
 En este proyecto me enfoque en construuir una página deicada en los Pandas Rojos
 
 * Header: Sección que involucra fotos de Pandas Rojos, cuestionarios.
+
+## Objetivo del proyecto
+Aprender a utilizar las etiquetas estándar de HTML5 y CSS3
  
 ## Link a demo
 Aqui puedes ver mi proyecto: [Página de Pandas Rojos
